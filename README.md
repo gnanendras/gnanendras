@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gnanendras
+- 👋 Hi, I’m @Gnanendra S
 - 👀 I’m interested in Java,SQL
 - 🌱 I’m currently learning python and Data Science
 - 💞️ I’m looking to collaborate on ...
